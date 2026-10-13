@@ -4,6 +4,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>測試測試</title>
     <link rel="stylesheet" href="style.css">
+</head>
     <style>
         h2 {
         color: red;
@@ -21,12 +22,11 @@
         background-color: #6d9090;
         }
     </style>
-</head>
     <body>
     <header>
-        <h1>跨三小
-        </h1>
+        <h2>跨三小
+        </h2>
     </header>
-    <h1><a href="https://www.youtube.com/watch?v=qFWBoP5Zl-E">HAHAPY</a></h1>
+    <h3><a href="https://www.youtube.com/watch?v=qFWBoP5Zl-E">HAHAPY</a></h3>
     </body>
 </html>
