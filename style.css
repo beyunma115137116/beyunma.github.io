@@ -1,4 +1,4 @@
-h2 {
+h1 {
     color: red;
 }
 p {
@@ -11,5 +11,5 @@ h2, section, footer{
     background-color: #6d9090;
 }
 h3, section, footer{
-    background-color: #6d9090;
+    background-color: #04f941;
 }
